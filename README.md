@@ -1,4 +1,4 @@
-# 🧏 Hear Me
+# 🧏 Hear Me 🧏
 ### *“Let’s Break the Barrier — Together, We Hear Each Other.”*
 
 Hear Me is an open-source, non-profit offline AI project dedicated to bridging communication between deaf and hearing communities.  
