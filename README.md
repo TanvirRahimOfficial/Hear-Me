@@ -1,7 +1,7 @@
-# 🎧 Hear Me
+# 🧏 Hear Me
 ### *“Let’s Break the Barrier — Together, We Hear Each Other.”*
 
-**Hear Me** is an open-source, non-profit AI project dedicated to bridging communication between deaf and hearing communities.  
+Hear Me is an open-source, non-profit offline AI project dedicated to bridging communication between deaf and hearing communities.  
 It supports multiple languages, allowing users to **create and share their own sign languages**.  
 
 Using advanced **computer vision**, **speech recognition**, and **AI translation**, Hear Me enables **real-time sign-to-speech** and **speech-to-sign** communication — giving everyone the power to be understood.
